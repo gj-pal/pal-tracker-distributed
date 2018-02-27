@@ -7,4 +7,13 @@ build
 .DS_Store
 .env
 ci/variables.yml
-out/**
+*out/**
+applications/allocations-server/out/
+applications/backlog-server/out/
+applications/timesheets-server/out/
+components/allocations/out/
+components/backlog/out/
+components/rest-support/out/
+components/test-support/out/
+components/timesheets/out/
+urls.txt
